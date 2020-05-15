@@ -1,6 +1,6 @@
 Background = #AEE1CD
-Primary = #56F275
-Secondary = #FF9858
-Tertiary = #FFD445
-Highlight = #F50D53
 Window = #FFC7CD
+color0 = #56F275
+color1 = #FF9858
+color2 = #FFD445
+color4 = #F50D53
