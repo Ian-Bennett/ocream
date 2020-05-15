@@ -1,8 +1,9 @@
 Background = #C1DDD2
 Window = #FFC7CD
-Primary Text = #452424 
-Bold Text = #452424
+Primary Text = #30443c
+Bold Text = #1d203f
+Dark Text = #452424
 Neutral Text = #1E2B21
 Tertiary Text = #FF9858
 color2 = #FFD445
-color4 = #F50D53
+color4 = #f0789c
